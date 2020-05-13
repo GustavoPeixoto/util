@@ -1,0 +1,4 @@
+Mesma pasta que se encontra o executável do Python
+
+Diretorio padrao versao 3.6
+C:\Users\NomeDoSeuUsuario\AppData\Local\Programs\Python\Python36
